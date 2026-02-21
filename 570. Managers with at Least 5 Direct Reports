@@ -1,0 +1,10 @@
+-- Write your PostgreSQL query statement below
+SELECT name
+FROM Employee
+WHERE id IN (
+    -- Step 1: Get the IDs that show up 5+ times in the managerId column
+    SELECT managerId
+    FROM Employee
+    GROUP BY managerId
+    HAVING COUNT(*) >= 5
+);
