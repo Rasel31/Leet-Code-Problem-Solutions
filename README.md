@@ -13,7 +13,7 @@ Welcome to my collection of SQL solutions for LeetCode database challenges. This
 
 | # | Problem Name | Difficulty | Key Concepts | Solution Link |
 |:---|:--- |:--- |:--- |:---|
-| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | `GROUP BY`, `HAVING`, `Subqueries` | [Link](./570_managers_reports.sql) |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | `GROUP BY`, `HAVING`, `Subqueries` | [Link](./570_managers_reports) |
 
 ---
 
