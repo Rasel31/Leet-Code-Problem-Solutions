@@ -1,3 +1,9 @@
+/*
+Problem: 1633. Percentage of Users Attended a Contest
+Link: https://leetcode.com/problems/percentage-of-users-attended-a-contest/
+Difficulty: Easy
+Concepts: Aggregation, Scalar Subqueries
+*/
 SELECT 
     contest_id, 
     ROUND(
