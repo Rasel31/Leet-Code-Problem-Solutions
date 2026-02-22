@@ -16,7 +16,7 @@ Welcome to my collection of SQL solutions for LeetCode database challenges. This
 |:---|:--- |:--- |:--- |:---|
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | `GROUP BY`, `HAVING`, `Subqueries` | [Link](./570.%20Managers%20with%20at%20Least%205%20Direct%20Reports) |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | `ROUND`, `Scalar Subqueries`, Multi-Column `ORDER BY` | [Link](./1633.%20Percentage%20of%20Users%20Attended%20a%20Contest) |
-| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | `CASE` Statement, Type Promotion (`* 1.0`), Conditional `AVG` | [Link](./1211_queries_quality.sql) |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | `CASE` Statement, Type Promotion (`* 1.0`), Conditional `AVG` | [Link](./1211.%20Queries%20Quality%20and%20Percentage) |
 ---
 
 ## 🛠️ Tech Stack & Skills
